@@ -1,2 +1,2 @@
 #!/bin/bash
-sort iplist.txt | unic -c gawk '$1==1{print $2}'
+sort | uniq -u
