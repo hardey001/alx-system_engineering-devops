@@ -1,2 +1,2 @@
 #!/bin/bash
-ls  -ld (om[1,10])
+ls -ltu | tail -10
