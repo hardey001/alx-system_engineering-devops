@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -hnr -B3 --no-group-seperator "root" /etc/passwd
+grep -hnr -A --no-group-seperator "root" /etc/passwd
