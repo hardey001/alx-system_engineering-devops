@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltrR 
+ls  -ld (om[1,10])
