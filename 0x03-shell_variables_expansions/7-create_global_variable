@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -r BEST=School
+readonly -r BEST=School
